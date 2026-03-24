@@ -8,7 +8,7 @@ public class AbstractAnonymous {
     public static void main(String s[]){
         A obj = new A(){
             public void show(){
-            System.out.println("in Show");
+            System.out.println("in my Show");
             }
             public void config(){
             System.out.println("in new config");
